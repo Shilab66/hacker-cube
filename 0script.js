@@ -276,7 +276,7 @@ scene("information", async() => {
     const text5 = add([
         pos(width()/2,height()/2),
         origin('center'),
-        text("But slowly, a virus dubbed The Glitch", 35),
+        text("But slowly, a virus dubbed The Glitch™", 35),
     ]);
     const text6 = add([
         pos(width()/2,height()/2+45),
