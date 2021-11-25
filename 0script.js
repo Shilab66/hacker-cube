@@ -227,7 +227,7 @@ scene("choose", async() => {
     await wait(5)
     add([
         pos(20, 50),
-        text("psst, press c", 15),
+        text("Press c to Continue", 15),
     ]);  
 })
 
